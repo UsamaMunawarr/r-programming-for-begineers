@@ -57,15 +57,15 @@ To embark on your R programming journey, follow these simple steps:
    We recommend using R Studio as your integrated development environment (IDE). Download it [here](https://www.rstudio.com/products/rstudio/download/).
 
 3. #### Running the Materials:  
-   Open any script in the course materials, like "1 - R as a Calculator\01 - Using R as a Calculator.R,"  ![Alt Text](1.jpg)
+   Open any script in the course materials, like "1 - R as a Calculator\01 - Using R as a Calculator.R,"  ![Alt Text](imgs/1.jpg)
 by double-clicking it. This will launch R Studio.
-![Alt Text](2.jpg)
+![Alt Text](imgs/2.jpg)
 
 
 
 4. #### Execute Code:   
    Select the code you want to run, hit the Run button or press CTRL + Enter (Windows) or CMD + Enter (Mac), and see your code's result in the command line window.
-![Alt Text](3.jpg)
+![Alt Text](imgs/3.jpg)
 
 ## 👨‍💻 About the author:
 
