@@ -68,4 +68,16 @@ by double-clicking it. This will launch R Studio.
 ![Alt Text](3.jpg)
 
 ## *📧 Contact*
-If you have any questions or need assistance, don't hesitate to reach out at usamamunawaar@gmail.com. Happy coding! 📬
+
+<p style='color:blue; font-size: 50px; font-weight: bold;'>Usama Munawar</p>
+
+### Connect with me on social media
+
+[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/UsamaMunawarr)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abu--usama)
+[![YouTube](https://img.icons8.com/?size=50&id=19318&format=png)](https://www.youtube.com/@CodeBaseStats)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO) 
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:usamamunawaar@gmail.com) 
+
+Happy coding! 📬
