@@ -67,11 +67,11 @@ by double-clicking it. This will launch R Studio.
    Select the code you want to run, hit the Run button or press CTRL + Enter (Windows) or CMD + Enter (Mac), and see your code's result in the command line window.
 ![Alt Text](3.jpg)
 
-## 📧 Contact
+## 👨‍💻 About the author:
 
-<p style='color:blue; font-size: 50px; font-weight: bold;'>## Usama Munawar</p>
+### Usama Munawar
 
-### Connect with me on social media
+## 📧 Connect with me on social media
 
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/UsamaMunawarr)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abu--usama)
